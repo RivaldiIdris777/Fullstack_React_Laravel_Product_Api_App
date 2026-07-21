@@ -3,11 +3,12 @@
 ![Login Page](/image/page2.png)
 
 <div align="center">
-  <img src="/image/loginpage.png" width="220" alt="Login Page" />
   <img src="/image/page1.png" width="220" alt="Home Page" />
   <img src="/image/page2.png" width="220" alt="Product Page" />
   <img src="/image/page1.png" width="220" alt="Dashboard Example" />
   <img src="/image/page3.png" width="220" alt="Detail Page" />
+  <img src="/image/loginpage.png" width="220" alt="Login Page" />
+  <img src="/image/registerpage.png" width="220" alt="Login Page" />
 </div>
 
 ## 📌 About the Project
