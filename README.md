@@ -1,6 +1,6 @@
 # Fullstack React Laravel Product API
 
-![Login Page](/image/Doc/page2.png)
+![Login Page](/image/page2.png)
 
 <div align="center">
   <img src="/image/loginpage.png" width="220" alt="Login Page" />
