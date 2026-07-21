@@ -1,13 +1,13 @@
 # Fullstack React Laravel Product API
 
-![Login Page](backend/public/image/Doc/page2.png)
+![Login Page](/image/Doc/page2.png)
 
 <div align="center">
-  <img src="backend/public/image/Doc/loginpage.png" width="220" alt="Login Page" />
-  <img src="frontend/public/images/Doc/page1.png" width="220" alt="Home Page" />
-  <img src="frontend/public/images/Doc/page2.png" width="220" alt="Product Page" />
-  <img src="backend/public/image/Doc/page1.png" width="220" alt="Dashboard Example" />
-  <img src="frontend/public/images/Doc/page3.png" width="220" alt="Detail Page" />
+  <img src="/image/Doc/loginpage.png" width="220" alt="Login Page" />
+  <img src="/image/Doc/page1.png" width="220" alt="Home Page" />
+  <img src="/image/Doc/page2.png" width="220" alt="Product Page" />
+  <img src="/image/Doc/page1.png" width="220" alt="Dashboard Example" />
+  <img src="/image/Doc/page3.png" width="220" alt="Detail Page" />
 </div>
 
 ## 📌 About the Project
